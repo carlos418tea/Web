@@ -1,0 +1,70 @@
+
+h2{
+    font-family: Alatsi;
+    color: #6b5481;
+    text-align: center;
+    font-size: 40px;
+}
+.datos{
+    border:solid 2px rgb(80, 80, 80);
+    width: 610px;
+    height: auto;
+    max-height: 850px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    text-align: center;
+    padding: 25px;
+    background-color: rgb(39, 38, 44);
+}
+.datos2{
+    width: 300px;
+    height: auto;
+    box-shadow: 5px 10px 8px black;
+}
+.datos3{
+    position: relative;
+    left: 310px;
+    top:-545px;
+    width: 300px;
+    height: 300px;
+    box-shadow: 5px 10px 8px black;
+}
+label{
+    font-size: 20px;
+    font-family: Alatsi;
+    color: #6b5481;
+}
+h3{
+    font-family: Alatsi;
+    color: #6b5481;
+    text-align: center;
+    font-size: 22px;
+}
+p{
+    font-family: Alatsi;
+    color: #d5c5e4;
+    text-align: center;
+    font-size: 15px;  
+}
+/*Input de Precio final*/
+.precioFinal{
+    text-align: center;
+    border-radius: 10px;
+    padding: 10px 10px;
+    font-size: 15px;
+    font-family: Alatsi;
+}
+
+/*Boton Reset*/
+.boton{
+    border-radius: 10px;
+    padding: 10px 20px;
+    font-size: 20px;
+    font-family: Alatsi;
+    background-color: #6b5481;
+}
+.boton:hover{
+    background-color: #ad98c2;
+}
+    

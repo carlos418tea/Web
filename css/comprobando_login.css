@@ -1,0 +1,22 @@
+body{
+    background-color:#110c16 ;
+    margin: 0%;
+    padding: 0%;
+}
+
+.redireccion{
+    margin-top: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 200px;
+    height: 50px;
+    border: 1px solid rgb(80, 80, 80);
+    background-color: rgb(39, 38, 44);
+    padding-top:20px;
+}
+.texto{
+    font-family: Alatsi;
+    color: #9057c5;
+    font-size: 20px;
+}

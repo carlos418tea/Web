@@ -1,0 +1,154 @@
+body{
+    background-color:#110c16 ;
+    margin: 0%;
+    padding: 0%;
+}
+/*H1, H4*/
+h1,h3,h4{
+    font-family: Alatsi;
+    color: #6b5481;
+}
+
+/*-----------------Cabecera------------------*/
+
+.Dh1{
+    width: 1869px;
+    height: 90px;
+    padding-left: 30px;
+    background-color: rgb(39, 38, 44);
+    border:solid 2px rgb(80, 80, 80);
+}
+
+/*Logo Posición*/
+.Dlogo{
+    margin-left: 235px;
+    margin-top: -70px;
+}
+.Logo{
+    width: 50px;
+    height: 50px;
+}
+
+/*-----------------Login-------------*/
+.login_Control{
+    padding: 5px;
+    position:relative;
+    float:left;
+    width: 600px;
+    height: 70px;
+    margin-top: -85px;
+    margin-left: 1200px;
+}
+
+/*---------------menu-----------------*/
+.Tipo_Letra{
+    font-family: Alatsi;
+    font-size: 20px;
+    color: #6b5481;
+    text-decoration:none;
+}
+.Dmenu{
+
+    width: 250px;
+    height: 245px;
+    background-color: rgb(39, 38, 44);
+    border:solid 2px rgb(80, 80, 80);
+    margin-left: -2px;
+
+}
+.Dinicio,.Dportfolio,.Dcontacto,.Dpresupuesto{
+    width: auto;
+    height: 40px;
+    border:solid 2px rgb(80, 80, 80);
+    padding-left: 30px;
+    padding-top: 20px;
+    margin-top:-2px;
+}
+.Dinicio:hover,.Dportfolio:hover,.Dcontacto:hover,.Dpresupuesto:hover{
+    background-color: rgba(112, 109, 134, 0.157);
+}
+
+/*--Exportados-------------------------------------------------------------------------*/
+.exportados{
+    position:relative;
+    float:left;
+    width: 1225px;
+    height: 1200px;
+    margin-top: -245px;
+    margin-left: 260px;
+}
+/*Carga de documentos HTML*/
+.htmls{
+    position:absolute;
+    width: 1225px;
+    height: 1200px;
+    border:solid 2px rgb(218, 3, 3);
+}
+/*RSS*/
+.rss{
+    position: absolute;
+    height: 1000px;
+    width: 400px;
+    padding: 20px;
+    border:solid 2px rgb(80, 80, 80);
+    margin-left: 1235px;
+}
+.enlace,.nop{
+    color: rgb(214, 214, 214);
+    text-decoration: none;
+    font-family: Alatsi;
+}
+
+
+/*--Footer derechos---------------------------------------------------------------------*/
+
+/*footer*/
+.contenedorFooters{
+    position: relative;
+    margin-top: 100px;
+    max-height: 1200px;
+    width: 1903px;
+    overflow: auto;
+    height: auto;
+}
+.contenedorFooter{
+    display: flex;
+    background-color: #222222;
+    
+}
+.Columna1,.Columna2,.Columna3{
+    max-width: 400px;
+    margin-left: 200px;
+    padding: 10px;
+    font-family: Alatsi;
+    font-size: 20px;
+}
+.Columna4{
+    width: 1903px;
+    font-size: 20px;
+}
+.padding{
+    padding: 10px;
+    background-color: black;
+}
+.derechos{
+    
+    color: rgb(214, 214, 214);
+    font-family: Alatsi;
+    font-size: 18px;
+}
+.nop2{
+    font-size: 18px;
+    color: #6b5481;
+    font-family: Alatsi;
+}
+
+/*Imagen de Logo en el Fondo*/
+/*.logo{
+    position:static;
+    width: 1500px;
+    height: 2000px;
+    margin-left: 900px;
+    margin-top: -350px;
+    opacity: 25%;
+}*/

@@ -1,0 +1,80 @@
+/*-----------------Login-------------*/
+.caja_ini_crea{
+    position:absolute;
+    margin-left: 350px;
+    width: 400px;
+    margin-top: -50px;
+    height: auto;
+
+}
+.Iniciar_Sesion{
+    position: absolute;
+    width: 298px;
+    height: 56px;
+    margin-left: 320px;
+    margin-top:-50px;
+
+}
+.Crear_Cuenta{
+    position: absolute;
+    margin-left: 125px;
+    height: 45px;
+}
+.boton_login{
+    border-radius: 10px;
+    padding: 10px 10px;
+    font-size: 18px;
+    font-family: Alatsi;
+    background-color: #6b5481;
+    border:none;
+}
+.boton_nueva{
+    margin-left: 5px;
+    border-radius: 10px;
+    padding: 10px 10px;
+    font-size: 18px;
+    font-family: Alatsi;
+    background-color: #6b5481;
+    border:none;
+}
+.boton_login:hover{
+    background-color: #ad98c2;
+}
+.boton_nueva:hover{
+    background-color: #ad98c2;
+}
+.input_text{
+    size: 15px;
+    border-radius: 5px;
+    font-size: 15px;
+    border:none;
+}
+a{
+    color: rgb(214, 214, 214);
+    font-family: Alatsi;
+    font-size: 18px;
+}
+/*--Confirmar si ya existe este user------------*/
+#error_user{
+    color: red;
+}
+#succes_user{
+    color: green;
+}
+/*--Form registro-------------------------------*/
+#popup{
+    left:0;
+    position:absolute;
+    top:0;
+    width:100%;
+    z-index:1001;
+    margin-top:150px;
+    border:solid 2px ;
+    padding: 10px;
+    background-color: rgb(39, 38, 44);
+}
+.letras{
+    color: rgb(214, 214, 214);
+    font-family: Alatsi;
+    font-size: 18px;
+}

@@ -1,0 +1,7 @@
+p{
+    color:aliceblue;
+    background-color: aqua;
+}
+.contenedorFooter{
+    display:flex;
+}

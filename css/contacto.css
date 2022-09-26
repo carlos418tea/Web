@@ -1,0 +1,61 @@
+
+h2{
+    font-family: Alatsi;
+    color: #6b5481;
+    text-align: center;
+    font-size: 40px;
+}
+/*posición general del form*/
+.form-posi{
+    margin-right: auto;
+    margin-left: auto;
+    width: 600px;
+    height: 800px;
+}
+
+/*formulario*/
+.form{
+    text-align: center;
+}
+.caja-form{
+    margin-right: auto;
+    margin-left: auto;
+    width: 500px;
+    height: 600px;
+    padding: 30px;
+    margin-top: 50px;
+    background-color: rgb(39, 38, 44);
+}
+label{
+    font-size: 20px;
+    font-family: Alatsi;
+    color: #6b5481;
+}
+
+/*Botones Reset y Enviar*/
+.boton{
+    border-radius: 10px;
+    padding: 10px 20px;
+    font-size: 20px;
+    font-family: Alatsi;
+    background-color: #6b5481;
+}
+.boton:hover{
+    background-color: #ad98c2;
+}
+.respuesta{
+    font-family: Alatsi;
+    font-size: 17px;
+}
+/*Mapa*/
+.posi-mapa{
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 25px;
+    width: 1200px;
+    height: 500px;
+}
+.mapa{
+    width: 1200px;
+    height: 500px;
+}

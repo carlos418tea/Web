@@ -1,0 +1,54 @@
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:s="https://www.zdnet.com/search" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<channel>
+<title>Latest news</title>
+<description>Most recent news</description>
+<language>en</language>
+<link>"https://www.zdnet.com/"</link>
+<copyright>2021 CBS Interactive Inc. All rights reserved</copyright>
+<pubDate>Sun, 28 Feb 2021 13:27:11 +0000</pubDate>
+<lastBuildDate>Sun, 28 Feb 2021 13:27:11 +0000</lastBuildDate>
+<generator>ZDNet</generator>
+<docs>"http://blogs.law.harvard.edu/tech/rss"</docs>
+<ttl>2</ttl>
+<image>
+<url>"https://www.zdnet.com/a/fly/bundles/zdnetcore/images/logos/zdnet-144x144.png"</url>
+<link>"https://www.zdnet.com/"</link>
+<titleeeee>Latest news</titleeeee>
+<width>144</width>
+<height>144</height>
+</image>
+<category>Technology</category>
+<s:counts>
+<start>0</start>
+<return>20</return>
+<found>387309</found>
+</s:counts>
+<item>
+<guid isPermaLink="false">8a9b46dc-232c-47a3-88a3-b8346d90011c</guid>
+<link>"https://www.zdnet.com/article/dear-microsoft-your-latest-windows-feature-may-be-quite-annoying/#ftag=RSSbaffb68"</link>
+<title>Dear Microsoft, your latest Windows feature may be quite annoying</title>
+<description>Microsoft is adding a new element to Word for Windows -- predictive text. But just look at how the company describes it.</description>
+<pubDate>Sun, 28 Feb 2021 13:00:03 +0000</pubDate>
+<media:credit role="author">Chris Matyszczyk</media:credit>
+<s:doctype>Text</s:doctype>
+</item>
+<item>
+<guid isPermaLink="false">89201e70-8571-40dc-8380-59f1cecfd40f</guid>
+<link>"https://www.zdnet.com/article/devops-and-agile-for-all-technology-professionals-need-to-lead-the-way-in-the-post-covid-era-ahead/#ftag=RSSbaffb68"</link>
+<title>DevOps and agile for all: technology professionals need to lead the way in the post-Covid era ahead</title>
+<description>Anatomy of a DevOps and agile mindset, circa 2021</description>
+<pubDate>Sat, 27 Feb 2021 17:18:00 +0000</pubDate>
+<media:credit role="author">Joe McKendrick</media:credit>
+<s:doctype>Text</s:doctype>
+</item>
+<item>
+<guid isPermaLink="false">9055a3b3-80b8-405a-950e-fa491a2b340c</guid>
+<link>"https://www.zdnet.com/article/why-would-you-ever-trust-amazons-alexa-after-this/#ftag=RSSbaffb68"</link>
+<title>Why would you ever trust Amazon's Alexa after this?</title>
+<description>Researchers examined the realities of using Alexa's tens of thousands of so-called Skills. Only a fraction even have a privacy policy.</description>
+<pubDate>Sat, 27 Feb 2021 13:00:00 +0000</pubDate>
+<media:credit role="author">Chris Matyszczyk</media:credit>
+<s:doctype>Text</s:doctype>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,138 @@
+body{
+    background-color:#110c16 ;
+    margin: 0%;
+    padding: 0%;
+}
+
+h1{
+    font-family: Alatsi;
+    color: #9985ac;
+
+}
+h2{
+    font-family: Alatsi;
+    color: #9985ac;
+}
+
+h3,h4{
+    font-family: Alatsi;
+    color: #9985ac;
+}
+
+p{
+    font-family: Alatsi;
+    color: #9985ac;
+    font-size: 20px;
+}
+
+.titulo_cabecera{
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    border:1px solid rgb(80, 80, 80);
+    width: 500px;
+    background-color: rgba(112, 109, 134, 0.157);
+    margin-bottom:20px;
+    margin-top:20px;
+}
+
+
+/* Controladora para los clientes */
+
+.controladora_clientes{
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+    width:1100px;
+    height:500px;
+    /*border:1px solid rgb(80, 80, 80);*/
+    padding: 20px;
+}
+
+.btns_ad_cls{
+    position:absolute;
+    width:100px;
+    height:50px;
+    margin-left: 1000px;
+    margin-top: -20px;
+}
+.btn_cerrar{
+    font-family: Alatsi;
+    background-color: #7c0000;
+    padding: 8px 18px;
+    text-align: center;
+    display: inline-block;
+    font-size: 14px;
+    cursor: pointer;
+    text-decoration: none;
+    margin: 5px;
+}
+.btn_admin{
+    font-family: Alatsi;
+    background-color: #6b5481;
+    padding: 8px 18px;
+    text-align: center;
+    display: inline-block;
+    font-size: 14px;
+    cursor: pointer;
+    text-decoration: none;
+    margin: 5px;
+}
+.botoneras{
+    font-family: Alatsi;
+    font-size: 13px;
+    background-color: #6b5481;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.btn_admin:hover,.botoneras:hover{
+    background-color: #ad98c2;
+}
+.btn_cerrar:hover{
+    background-color: #be3636;
+}
+
+.info_cliente{
+    border:1px solid rgb(80, 80, 80);
+    width:300px;
+    height:300px;
+    padding:20px;
+    background-color: rgba(112, 109, 134, 0.157);
+    margin: 5px;
+}
+
+.citas{
+    position: relative;
+    border:1px solid rgb(80, 80, 80);
+    width:200px;
+    height:330px;
+    padding: 15px;
+    background-color: rgba(112, 109, 134, 0.157);
+    margin: 5px;
+}
+
+.reser_citas{
+    position:absolute;
+    /*border:1px solid rgb(255, 196, 0);*/
+    text-align: center;
+    width:320px;
+    height:auto;
+    margin-top: 380px;
+    margin-left: 330px;
+    background-color: rgba(112, 109, 134, 0.157);
+}
+
+/* Controladora Administrador */
+
+.controladora_admin{
+    position:absolute;
+    width:300px;
+    height:300px;
+    position:relative;
+    float:left;
+    border:1px solid rgb(80, 80, 80);
+    padding: 15px;
+    display:none;
+    background-color: rgba(112, 109, 134, 0.157);
+    margin: 5px;
+}
